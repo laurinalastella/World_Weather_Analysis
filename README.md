@@ -3,6 +3,8 @@
 
 
 # World_Weather_Analysis
+Laurina LaStella
+2022 July
 
 # Deliverable 1: Retrieve Weather Data
 
@@ -15,13 +17,13 @@
 ![Lat x Max Temp](Weather_Database/weather_data/Fig1.png)
 
 
-![Lat x Humidity](Weather_Database/weather_data/fig2.png)
+![Lat x Humidity](Weather_Database/weather_data/Fig2.png)
 
 
-![Lat x Cloudiness](Weather_Database/weather_data/fig3.png)
+![Lat x Cloudiness](Weather_Database/weather_data/Fig3.png)
 
 
-![Lat x Wind Speed](Weather_Database/weather_data/fig4.png)
+![Lat x Wind Speed](Weather_Database/weather_data/Fig4.png)
 
 ---
 
