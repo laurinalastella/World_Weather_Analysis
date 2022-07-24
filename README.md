@@ -12,16 +12,16 @@
 
 
 
-![Lat x Max Temp](weather_database/weather_data/fig1.png)
+![Lat x Max Temp](Weather_Database/weather_data/Fig1.png)
 
 
-![Lat x Humidity](weather_database/weather_data/fig2.png)
+![Lat x Humidity](Weather_Database/weather_data/fig2.png)
 
 
-![Lat x Cloudiness](weather_database/weather_data/fig3.png)
+![Lat x Cloudiness](Weather_Database/weather_data/fig3.png)
 
 
-![Lat x Wind Speed](weather_database/weather_data/fig4.png)
+![Lat x Wind Speed](Weather_Database/weather_data/fig4.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-![Lat x Wind Speed](vacation_search/WeatherPy_vacation_map.png)
+![Lat x Wind Speed](Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ---
@@ -44,8 +44,8 @@
 
 ### Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
-![Lat x Wind Speed](vacation_itinerary/WeatherPy_travel_map.png)
+![Lat x Wind Speed](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
-![Lat x Wind Speed](vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Lat x Wind Speed](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
