@@ -1,7 +1,3 @@
-
-
-
-
 # World_Weather_Analysis
 Laurina LaStella
 2022 July
@@ -12,16 +8,11 @@ Laurina LaStella
 
 ### Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
 
-
-
 ![Lat x Max Temp](Weather_Database/weather_data/Fig1.png)
-
 
 ![Lat x Humidity](Weather_Database/weather_data/Fig2.png)
 
-
 ![Lat x Cloudiness](Weather_Database/weather_data/Fig3.png)
-
 
 ![Lat x Wind Speed](Weather_Database/weather_data/Fig4.png)
 
@@ -36,7 +27,6 @@ Laurina LaStella
 
 ![Lat x Wind Speed](Vacation_Search/WeatherPy_vacation_map.png)
 
-
 ---
 
 
@@ -47,7 +37,6 @@ Laurina LaStella
 ### Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
 ![Lat x Wind Speed](Vacation_Itinerary/WeatherPy_travel_map.png)
-
 
 ![Lat x Wind Speed](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
