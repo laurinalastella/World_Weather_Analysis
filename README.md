@@ -13,6 +13,7 @@
 
 
 ![Lat x Max Temp](weather_database/weather_data/fig1.png)
+![Lat x Max Temp](Weather_Database/weather_data/Fig1.png)
 
 
 ![Lat x Humidity](weather_database/weather_data/fig2.png)
